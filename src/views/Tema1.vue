@@ -517,142 +517,161 @@
         
         .tarjetaf.p-3.mb-4
           SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
-            .row.justify-content-center.align-items.p-4
+            .row.justify-content-center.p-4
               .col-lg-6
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 Los billetes de 50.000 cuentan con diversos elementos de seguridad diseñados para prevenir la falsificación y garantizar su autenticidad. Entre estos se incluyen.
-                  li.d-flex.mb-0
+                    p.mb-4 Los billetes de $50.000 cuentan con diferentes elementos de seguridad que facilitan la verificación de su autenticidad, entre los que se encuentran:
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Las áreas con relieve en la mayoría de los casos, son las zonas más oscuras del billete.
-                  li.d-flex.mb-0
+                    p.mb-0 Al tocar el billete se percibe alto relieve en el rostro de Gabriel García Márquez, el número 50 en sistema braille, los textos, el logotipo, las firmas y otros detalles.
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Al exponer el billete a la luz ultravioleta, se puede apreciar en el hilo de seguridad color plateado, la palabra “COLOMBIA” aparece en color amarillo sobre fondo violeta  y el texto “50 MIL PESOS”. También los números de serie del billete aparecen en colores verde y rojo.
-                p.mb-4 Al exponer el billete a la luz ultravioleta, se puede apreciar que el hilo de seguridad reacciona en color verde y que en la parte superior del árbol se ve en el color naranja. Los extremos superior e inferior del billete se observan en color amarillo.
+                    p.mb-0 Al trasluz se observan las marcas de agua con el rostro de Gabriel García Márquez y el número 50, además de la cinta de seguridad con el texto «BRC» y la silueta del caracol burgao.
+                  li.d-flex.mb-2
+                    i.fas.fa-check
+                    p.mb-0 Bajo luz ultravioleta, las fibras presentan fluorescencia amarilla y roja; la cinta de seguridad reacciona en rojo y amarillo, mientras que algunas figuras, microtextos y el caracol burgao se observan en naranja y verde. 
+             
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 7. 
                   | Elementos de seguridad, billete de 50 mil
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/fig7.svg", alt="Billete colombiano de $50.000 con detalles de relieve, cinta de seguridad, marca de agua y reacción bajo luz ultravioleta.")
                 p.mb-3 Fuente: Banco de la República (s. f.)
-            .row.justify-content-center.align-items.p-4(data-aos="fade-left")
+            
+            .row.justify-content-center.p-4(data-aos="fade-left")
               .col-lg-6
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 En el caso de los billetes de 20.000 se incorporan múltiples características de seguridad que ayudan a confirmar su legitimidad. Estos elementos suelen incluir.
-                  li.d-flex.mb-0
+                    p.mb-4 Los billetes de $20.000 incorporan diferentes elementos de seguridad que permiten comprobar su autenticidad, entre los que se encuentran:
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Al exponer el billete a la luz ultravioleta se puede apreciar que el  hilo de seguridad se ve en colores amarillo, azul y rojo. Con mayor nitidez en las secciones que salen del papel. La denominación “20000” y el texto “VEINTE MIL PESOS” aparecen en dos sellos en el costado izquierdo, así como en sentido vertical la denominación “20000” en el centro del billete, los cuales reaccionan en color amarillo.
-                  li.d-flex.mb-0
+                    p.mb-0 Al tocar el billete se percibe alto relieve en el rostro de Alfonso López Michelsen, el número 20 en sistema braille, los textos, el logotipo, las firmas y otros detalles.
+
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Las áreas con relieve, en la mayoría de los casos, son las zonas más oscuras del billete.
+                    p.mb-0 Al trasluz se observan las marcas de agua con el rostro de Alfonso López Michelsen y el número 20, además de la cinta de seguridad con el texto "BRC" y la silueta de la orejera zenú.
+                  li.d-flex.mb-2
+                    i.fas.fa-check
+                    p.mb-0 Bajo luz ultravioleta, las fibras presentan fluorescencia amarilla y roja; la cinta de seguridad reacciona en rojo y amarillo, y otros detalles se observan en verde y naranja.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 8. 
                   | Elementos de seguridad, billete de 20 mil
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/fig8.svg", alt="Billete colombiano de $20.000 con detalles de relieve, cinta de seguridad, marca de agua y reacción bajo luz ultravioleta.")
                 p.mb-3 Fuente: Banco de la República (s. f.)
-            .row.justify-content-center.align-items.p-4(data-aos="fade-left")
+            
+            
+            .row.justify-content-center.p-4
               .col-lg-6
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4 Los billetes de 10.000 están protegidos con diversos sistemas de seguridad que aseguran su validez. Dentro de estos mecanismos se encuentran.
-                  li.d-flex.mb-0
+                    p.mb-4 Los billetes de $10.000 incorporan diferentes elementos de seguridad que permiten verificar su autenticidad, entre los que se encuentran:
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Las áreas con relieve, en la mayoría de los casos, son las zonas más oscuras del billete.
-                  li.d-flex.mb-0
+                    p.mb-0 Al tocar el billete se percibe alto relieve en el rostro de Virginia Gutiérrez de Pineda, el número 10 en sistema braille, los textos, el logotipo, las firmas y otros detalles.
+
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Los dos hilos de seguridad están ubicados en posición vertical. Visto por el anverso, el hilo de la derecha es transparente y a la contraluz permite leer el texto “BRC 10000”. El de la izquierda no es transparente y se aprecia como opaco a contraluz.
-                  li.d-flex.mb-0
+                    p.mb-0 Al trasluz se observan las marcas de agua con el rostro de Virginia Gutiérrez y el número 10, además de la cinta de seguridad con el texto "BRC" y la silueta de la flor de la Victoria regia.
+
+                  li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Ubicada en el extremo izquierdo del billete a contraluz se observa la imagen de la heroína, con los mismos rasgos del retrato utilizado como motivo principal, a la derecha se aprecia la marca de agua resaltada formada por las letras P y S.
+                    p.mb-0 Al girar el billete, la rana arborícola cambia de color cobre a verde.
+                  
+                  li.d-flex.mb-2
+                    i.fas.fa-check
+                    p.mb-0 Bajo luz ultravioleta, las fibras presentan fluorescencia amarilla y roja; la cinta de seguridad reacciona en rojo y amarillo, y otros detalles se observan en verde y naranja.
               .col-lg-6.col-md-12.col-12
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 9. 
                   | Elementos de seguridad, billete de 10 mil
                 img.mb-3(data-aos="fade-down")(src="@/assets/curso/temas/fig9.svg", alt="Anverso y reverso del billete colombiano de $10.000, con ampliaciones de la cinta de seguridad, marca de agua y relieves.")
                 p.mb-3 Fuente: Banco de la República (s. f.)
-            .row.justify-content-center.align-items-center.p-4
-              .col-lg-12
+            
+            .row.justify-content-center.p-4
+              .col-lg-11
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") Los nuevos billetes incluyen diversos elementos de seguridad, entre los cuales se encuentran los siguientes:
+                    p.mb-4(data-aos="fade-left") Los billetes colombianos incorporan impresiones en alto relieve y elementos táctiles que facilitan su reconocimiento y la verificación de su autenticidad.
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 10. 
-                  | Elementos de seguridad de nuevos billetes
+                  | Impresiones en alto relieve y elementos táctiles
                 img.mb-3(src="@/assets/curso/temas/fig10.svg", alt="Detalles de billetes colombianos con imágenes y textos en relieve y marcas táctiles para personas con discapacidad visual.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
-              p.mb-0.text-center Imágenes y textos en relieve y elementos en sistema #[em braille] para personas con discapacidad visual.
+              p.mb-0.col-lg-11 Imágenes, textos y patrones impresos en alto relieve, perceptibles al tacto.
+            
             .row.justify-content-center.align-items-center.p-4
-              .col-lg-12
+              .col-lg-11
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los billetes más recientes se han añadido elementos de seguridad como los que se mencionan a continuación:
+                    p.mb-4(data-aos="fade-left") Al observar los billetes al trasluz se identifican diferentes elementos de seguridad, como los siguientes:
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 11. 
-                  | Elementos de seguridad, marcas, hilos y patrones
+                  | Imágenes coincidentes, cinta de seguridad y marcas de agua
                 img.mb-3(src="@/assets/curso/temas/fig11.svg", alt="Detalles de billetes colombianos con imagen coincidente, cinta de seguridad y marca de agua visibles a contraluz.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
-              p.mb-0.text-center Imágenes coincidentes, efectos en la cinta de seguridad y marcas de agua a trasluz.
+              p.mb-0.col-lg-11 Imágenes coincidentes, cinta de seguridad y marcas de agua visibles al trasluz.
+            
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") Los billetes modernos presentan distintos elementos de seguridad, como los siguientes:
+                    p.mb-4(data-aos="fade-left") Al girar o inclinar los billetes se observan efectos de cambio de color, movimiento e imágenes ocultas.
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 12. 
-                  | Elementos de seguridad, hologramas, marcas de agua y patrones espaciales 
+                  | Efectos de cambio de color, movimiento e imágenes ocultas 
                 img.mb-3(src="@/assets/curso/temas/fig12.svg", alt="Detalles de billetes colombianos con efectos de cambio de color, movimiento e imágenes ocultas al variar el ángulo.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
-              p.mb-0.text-center Efectos de color y movimiento, así como imágenes ocultas.
+              p.mb-0 Efectos de color y movimiento, así como imágenes ocultas.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos diseños de billetes se integran varios elementos de seguridad, tales como:
+                    p.mb-4(data-aos="fade-left") Al exponer los billetes a la luz ultravioleta se observan fibras, tintas, cintas y zonas de seguridad que presentan fluorescencia.
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 13. 
                   | Billetes bajo la luz ultravioleta
                 img.mb-3(src="@/assets/curso/temas/fig13.svg", alt="Billetes colombianos bajo luz ultravioleta, con fibras, tintas y zonas de seguridad que reaccionan en distintos colores.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
-              p.mb-0.text-center Reacción a luz ultravioleta.
+              p.mb-0 Reacción a luz ultravioleta.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") Los billetes actuales están provistos de elementos de seguridad, entre ellos se destacan los siguientes:
+                    p.mb-4(data-aos="fade-left") Los billetes colombianos incorporan microtextos que pueden verificarse con ayuda de una lupa.
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 14. 
                   | Microtextos como elementos de seguridad
                 img.mb-3(src="@/assets/curso/temas/fig14.svg", alt="Microtextos impresos en billetes colombianos, visibles con lupa y utilizados como elemento de seguridad.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
-              p.mb-0.text-center Microtextos para observar con lupa.
+              p.mb-0 Microtextos para observar con lupa.
             .row.justify-content-center.align-items-center.p-4
               .col-lg-12
                 ul.lista-ul
                   li.d-flex.mb-0
                     i.fas.fa-circle-check
-                    p.mb-4(data-aos="fade-left") En los nuevos billetes también se encuentran elementos de seguridad como los siguientes:
+                    p.mb-4(data-aos="fade-left") Algunos textos, números e imágenes de los billetes colombianos presentan variaciones de color al cambiar el ángulo de observación.
               .col-lg-10
                 .titulo-sexto.color-secundario.mb-4
                   h5 Figura 15. 
-                  | Billetes colombianos con variación de color
+                  | Elementos con variación de color en billetes colombianos
                 img.mb-3(src="@/assets/curso/temas/fig15.svg", alt="Detalle de billetes colombianos con tintas que cambian de color al variar el ángulo de observación.")
                 p.mb-4 Fuente: Banco de la República (s. f.)
-              p.mb-0.text-center Variación de color.
+              p.mb-0 Variación de color.
 
 
 </template>
