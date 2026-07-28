@@ -100,7 +100,7 @@
                 i.fas.fa-circle-check
                 p.mb-0 En la compra se debe utilizar el valor total del bono.
           .col-lg-5.col-md-9
-            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img3.png", alt="En la fotografía se aprecia una mujer sonriendo sosteniendo un sobre con un moño rojo." )
+            img.mb-4(data-aos="fade-down")(src="@/assets/curso/temas/img3.png", alt="" )
             
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6
@@ -528,7 +528,7 @@
                     p.mb-0 Al tocar el billete se percibe alto relieve en el rostro de Gabriel García Márquez, el número 50 en sistema braille, los textos, el logotipo, las firmas y otros detalles.
                   li.d-flex.mb-2
                     i.fas.fa-check
-                    p.mb-0 Al trasluz se observan las marcas de agua con el rostro de Gabriel García Márquez y el número 50, además de la cinta de seguridad con el texto «BRC» y la silueta del caracol burgao.
+                    p.mb-0 Al trasluz se observan las marcas de agua con el rostro de Gabriel García Márquez y el número 50, además de la cinta de seguridad con el texto "BRC" y la silueta del caracol burgao.
                   li.d-flex.mb-2
                     i.fas.fa-check
                     p.mb-0 Bajo luz ultravioleta, las fibras presentan fluorescencia amarilla y roja; la cinta de seguridad reacciona en rojo y amarillo, mientras que algunas figuras, microtextos y el caracol burgao se observan en naranja y verde. 
